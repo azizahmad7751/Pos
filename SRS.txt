@@ -1,0 +1,43 @@
+
+SWASTO POS 
+
+
+
+Features
+
+Login Page
+
+Home/Dashboard Page
+-Displays the Summary
+
+Categories Management
+-Add New Category
+-List All Categories
+-Update Category Details
+-Delete Category Details
+
+Products Management
+-Add New Product
+-List All Products
+-Update Product Details
+-Delete Product Details
+
+Point of Sale (POS)
+-Add Product Item to List
+-Calculate Automatically the total
+-Remove Product Item from the list
+-Update Item Quantity and Recalculate Total
+-Auto-Calculate Tax Amount
+-Checkout Form Modal
+-Auto-Calculate the Customer Change
+-Shows the Transaction Receipt
+
+Sales Management
+-List All Sales Transaction
+-View Transaction Receipt
+-Print Transaction Receipt
+-Delete Transaction Details
+
+User Authentication
+Logout
+User Authentication
